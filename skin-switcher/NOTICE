@@ -1,0 +1,16 @@
+skin-switcher (dsh-skin-switcher)
+=================================
+
+Third-party derivative notice (CC BY-NC-SA 4.0)
+
+This package is utility code only: it ships NO artwork and NO skin assets.
+It is distributed under the repository's CC BY-NC-SA 4.0 terms.
+
+Attribution:
+- Author: Small-tailqwq (dsh-external/dsh-deep-whale) — skin switcher code.
+- The whale-girl character artwork used by the companion skins is NOT part
+  of this package; the full attribution chain lives in the skins' NOTICE
+  files (maid-atelier/NOTICE, orca-link/NOTICE).
+
+Usage terms: CC BY-NC-SA 4.0 —— 署名 (attribution) 必须保留；非商业性使用
+(non-commercial only)；衍生作品必须以相同方式共享 (share-alike)。
